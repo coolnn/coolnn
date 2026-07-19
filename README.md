@@ -1,6 +1,6 @@
 ## hi 
 
-Begginer Security engineer · pentester
+Beginner Security engineer · pentester
 
 
 <p align="center">
